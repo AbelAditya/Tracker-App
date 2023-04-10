@@ -1,16 +1,5 @@
-# pet
+# Tracker App
 
-A new Flutter project.
+This works with a GPS tracking module that I made using a SIM module, GPS module and Arduino. It fetches location from the module and redirects you to Google Maps and navigates you to the tracker module.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PS: I made an airtag for all platforms XD
